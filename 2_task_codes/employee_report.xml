@@ -1,0 +1,42 @@
+<employee EmployeeID="emp_56">
+  <name>Pepe Juárez</name>
+  <gender>Male</gender>
+  <address>Galarza 3553, Neuquén</address>
+  <phone>2996235098</phone>
+  <birth_place>Tucumán, Argentina</birth_place>
+  <birth_date>1993-22-02</birth_date>
+  <team name="QA">
+    <budget>500000</budget>
+    <work_method>Hybrid</work_method>
+  </team>
+  <job>
+    <role>Technician</role>
+    <level>2</level>
+    <role_experience>1 year</role_experience>
+    <salary>2000</salary>
+  </job>
+  <certificates>
+    <certificate>
+        <description>Web Development</description>
+        <date>2020-24-05</date>
+    </certificate>
+    <certificate>
+        <description>Team Leadership</description>
+        <date>2021-04-11</date>
+    </certificate>
+   <certificates>
+   <emergency_contacts>
+    <emergency_contact>
+        <name>Osvaldo Allemandi</name>
+        <phone>+54123456789</phone>
+        <address>Basavilbaso 451, Neuquén</address>
+        <relationship>Father</relationship>
+    </emergency_contact>
+    <emergency_contact>
+        <name>María Martinez</name>
+        <phone>+54987654321</phone>
+        <address>Talero 511, Buenos Aires</address>
+        <relationship>Sister</relationship>
+    </emergency_contact>
+   </emergency_contacts>
+</employee>

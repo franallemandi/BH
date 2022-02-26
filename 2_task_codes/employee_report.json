@@ -1,0 +1,48 @@
+{
+    "Employees": [
+        {
+            "EmpID": "emp_56",
+            "Name": "Pepe Juárez",
+            "Gender": "Male",
+            "Address": "Galarza 3553, Neuquén",
+            "Phone": "2996235098",
+            "BirthPlace": "Tucumán, Argentina",
+            "BirthDate": "1993-22-02",
+            "Team": {
+                "Name": "QA",
+                "Budget": 400000,
+                "WorkMethod": "Hybrid"
+            },
+            "Job": {
+                "Role": "Automation Engineer",
+                "Level": 2,
+                "Salary": 2000,
+                "RoleExperience": "1 year"
+            },
+            "Certificates": [
+                {
+                    "Description": "Web Development",
+                    "Date": "2020-24-05"
+                },
+                {
+                    "Description": "Team Leadership",
+                    "Date": "2021-04-11"
+                }
+            ],
+            "EmergencyContacts": [
+                {
+                    "Name": "Osvaldo Allemandi",
+                    "Phone": "+54123456789",
+                    "Address": "Basavilbaso 451, Neuquén",
+                    "Relationship": "Father"
+                },
+                {
+                    "Name": "María Martinez",
+                    "Phone": "+54987654321",
+                    "Address": "Talero 511, Buenos Aires",
+                    "Relationship": "Sister"
+                }
+            ]
+        }
+    ]
+}
