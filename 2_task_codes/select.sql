@@ -9,6 +9,7 @@ SELECT
   e.Team,
   t.Budget AS 'Team Budget',
   t.WorkMethod AS 'Team WM',
+  t.Department AS 'Team Department',
   j.Role,
   j.Level,
   j.Salary,

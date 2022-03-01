@@ -11,7 +11,8 @@
             "Team": {
                 "Name": "QA",
                 "Budget": 400000,
-                "WorkMethod": "Hybrid"
+                "WorkMethod": "Hybrid",
+                "Department": "Development Department"
             },
             "Job": {
                 "Role": "Automation Engineer",

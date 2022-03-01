@@ -8,6 +8,7 @@
   <team name="QA">
     <budget>500000</budget>
     <work_method>Hybrid</work_method>
+    <department>Development Department</department>
   </team>
   <job>
     <role>Technician</role>
